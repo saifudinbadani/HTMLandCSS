@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+:root {
+    --primary-color: #EF4444;
+    --off-white: #F5F5F5;
+    --gray: #D1D5DB;
+
+}
