@@ -6,3 +6,12 @@
     --gray: #D1D5DB;
 
 }
+
+body {
+    font-family: 'Ubuntu';
+    margin: 0px;
+}
+
+hr {
+    margin: 2rem 0rem;
+}
