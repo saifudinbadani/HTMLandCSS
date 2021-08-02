@@ -90,6 +90,7 @@ hr {
 
 .navigation .link-active {
     font-weight: bolder;
+    font-size: large;
 }
 
 /* header */
