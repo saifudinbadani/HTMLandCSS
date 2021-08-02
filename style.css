@@ -2,8 +2,8 @@
 
 :root {
     --primary-color: #EF4444;
-    --off-white:  #ecd2ce;
-    --gray: #9CA3AF;
+    --off-white:  #F3F4F6;
+    --gray: #81868f;
 
 }
 
@@ -89,7 +89,7 @@ hr {
 }
 
 .navigation .link-active {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 /* header */
@@ -134,7 +134,7 @@ hr {
 
 .footer {
     background-color: var(--primary-color);
-    padding: 4rem 1 rem;
+    padding: 4rem  1rem;
     text-align: center;
     color: white;
     border-top-left-radius: 1rem;
