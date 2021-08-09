@@ -165,3 +165,7 @@ hr {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
+ol{
+    list-style: none;
+}
